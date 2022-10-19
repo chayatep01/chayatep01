@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
+
 I'm Chayatep or you can call me Bright !
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayatep01&row=2&column=3&margin-w=15&margin-h=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
