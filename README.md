@@ -19,7 +19,7 @@ O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S |
 
 ```
 
-//<p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
+<!-- <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p> -->
 
 I'm Chayatep or you can call me Bright !
 
