@@ -1,27 +1,43 @@
 ### Hi there 👋
 ```html
-<div class="svg-container">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 500 100" preserveAspectRatio="xMidYMid meet">
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="48" font-family="Arial">
-      OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD           SSSSSSSSSSSSSSS   
-      OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD      SS:::::::::::::::S  
-     OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S:::::SSSSSS::::::S 
-    O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  S:::::S     SSSSSSS  
-    O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D S:::::S              
-    O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::DS:::::S             
-    O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D S::::SSSS           
-    O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D    SSS::::::::SS           
-    O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D       SSSSSS::::S  
-    O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D            S:::::S  
-    O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D             S:::::S 
-    O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S  
-     OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S::::::SSSSSS:::::S 
-       OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD     S:::::::::::::::SS  
-         OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD         SSSSSSSSSSSSSSS    
-    </text>
-  </svg>
+<div class="code-block">
+  <pre>
+    <code>
+  OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD           SSSSSSSSSSSSSSS  ||||||| 
+    OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD      SS:::::::::::::::S |:::::| 
+  OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S:::::SSSSSS::::::S |:::::| 
+O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  S:::::S     SSSSSSS |:::::| 
+O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D S:::::S             |:::::| 
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::DS:::::S             |:::::| 
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D S::::SSSS          ||||||| 
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D  SS::::::SSSSS             
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D    SSS::::::::SS           
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D       SSSSSS::::S  ||||||| 
+O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D            S:::::S |:::::| 
+O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D             S:::::S |:::::| 
+O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S |:::::| 
+  OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S::::::SSSSSS:::::S |:::::| 
+    OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD     S:::::::::::::::SS  |:::::| 
+      OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD         SSSSSSSSSSSSSSS    ||||||| 
+    </code>
+  </pre>
 </div>
-```
+
+<style>
+  .code-block {
+    width: 100%;
+    padding: 20px;
+    overflow: auto;
+    background-color: #f2f2f2;
+    font-family: monospace;
+  }
+  @media screen and (max-width: 500px) {
+    .code-block {
+      font-size: 14px;
+    }
+  }
+</style>
+
 
 <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
 
