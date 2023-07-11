@@ -37,7 +37,7 @@ O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S |
     }
   }
 </style>
-
+```
 
 <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
 
