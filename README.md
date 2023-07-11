@@ -1,8 +1,5 @@
 ### Hi there 👋
-```html
-<div class="code-block">
-  <pre>
-    <code>
+```
   OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD           SSSSSSSSSSSSSSS  ||||||| 
     OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD      SS:::::::::::::::S |:::::| 
   OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S:::::SSSSSS::::::S |:::::| 
@@ -19,24 +16,7 @@ O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S |
   OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S::::::SSSSSS:::::S |:::::| 
     OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD     S:::::::::::::::SS  |:::::| 
       OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD         SSSSSSSSSSSSSSS    ||||||| 
-    </code>
-  </pre>
-</div>
 
-<style>
-  .code-block {
-    width: 100%;
-    padding: 20px;
-    overflow: auto;
-    background-color: #f2f2f2;
-    font-family: monospace;
-  }
-  @media screen and (max-width: 500px) {
-    .code-block {
-      font-size: 14px;
-    }
-  }
-</style>
 ```
 
 <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
