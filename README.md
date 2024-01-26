@@ -1,23 +1,4 @@
 ### Hi there 👋
-```
-  OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD           SSSSSSSSSSSSSSS  ||||||| 
-    OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD      SS:::::::::::::::S |:::::| 
-  OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S:::::SSSSSS::::::S |:::::| 
-O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  S:::::S     SSSSSSS |:::::| 
-O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D S:::::S             |:::::| 
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::DS:::::S             |:::::| 
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D S::::SSSS          ||||||| 
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D  SS::::::SSSSS             
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D    SSS::::::::SS           
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D       SSSSSS::::S  ||||||| 
-O:::::O     O:::::O  D:::::D     D:::::DD:::::D     D:::::D            S:::::S |:::::| 
-O::::::O   O::::::O  D:::::D    D:::::D D:::::D    D:::::D             S:::::S |:::::| 
-O:::::::OOO:::::::ODDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  SSSSSSS     S:::::S |:::::| 
-  OO:::::::::::::OO D:::::::::::::::DD D:::::::::::::::DD   S::::::SSSSSS:::::S |:::::| 
-    OO:::::::::OO   D::::::::::::DDD   D::::::::::::DDD     S:::::::::::::::SS  |:::::| 
-      OOOOOOOOO     DDDDDDDDDDDDD      DDDDDDDDDDDDD         SSSSSSSSSSSSSSS    ||||||| 
-
-```
 
 <!-- <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p> -->
 
